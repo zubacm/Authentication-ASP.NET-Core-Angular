@@ -1,0 +1,5 @@
+div.form-group.required>label:first-child:after{
+    content: '*';
+    color: #dc3545;
+    padding-left: 5px;
+}

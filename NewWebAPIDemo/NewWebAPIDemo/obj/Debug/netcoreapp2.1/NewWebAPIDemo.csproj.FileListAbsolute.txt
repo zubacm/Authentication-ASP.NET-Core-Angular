@@ -1,0 +1,28 @@
+D:\2\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.deps.json
+D:\2\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.runtimeconfig.json
+D:\2\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.runtimeconfig.dev.json
+D:\2\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.dll
+D:\2\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.pdb
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.csproj.CoreCompileInputs.cache
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.RazorAssemblyInfo.cache
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.RazorAssemblyInfo.cs
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.AssemblyInfoInputs.cache
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.AssemblyInfo.cs
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.RazorTargetAssemblyInfo.cache
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.dll
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.pdb
+D:\2\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.csprojAssemblyReference.cache
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.deps.json
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.runtimeconfig.json
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.runtimeconfig.dev.json
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.dll
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\bin\Debug\netcoreapp2.1\NewWebAPIDemo.pdb
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.csprojAssemblyReference.cache
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.csproj.CoreCompileInputs.cache
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.RazorAssemblyInfo.cache
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.RazorAssemblyInfo.cs
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.AssemblyInfoInputs.cache
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.AssemblyInfo.cs
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.RazorTargetAssemblyInfo.cache
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.dll
+D:\2\ASPAngular JWT tokens\JWTAspAngular login-reg roles ASPIdentity refresh\NewWebAPIDemo\NewWebAPIDemo\obj\Debug\netcoreapp2.1\NewWebAPIDemo.pdb
